@@ -165,6 +165,14 @@ cython_debug/
 /temp_image/
 /browser_data/
 /data/
+/data_*/
+/data_test/
+*.DS_Store
+**/.DS_Store
+
+# local crawler runtime files
+data/xhs/md/traveler/detail_done.log
+data/kuaishou/videos/
 
 */.DS_Store
 .vscode
